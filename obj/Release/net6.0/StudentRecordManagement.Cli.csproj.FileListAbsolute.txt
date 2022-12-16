@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\bin\Release\net6.0\StudentRecordManagement.Cli.exe
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\bin\Release\net6.0\StudentRecordManagement.Cli.deps.json
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\bin\Release\net6.0\StudentRecordManagement.Cli.runtimeconfig.json
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\bin\Release\net6.0\StudentRecordManagement.Cli.dll
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\bin\Release\net6.0\StudentRecordManagement.Cli.pdb
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.AssemblyInfo.cs
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.dll
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\refint\StudentRecordManagement.Cli.dll
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.pdb
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\StudentRecordManagement.Cli.genruntimeconfig.cache
+C:\Users\User\Desktop\UnPublished Software\StudentRecordManagement.Cli\obj\Release\net6.0\ref\StudentRecordManagement.Cli.dll
