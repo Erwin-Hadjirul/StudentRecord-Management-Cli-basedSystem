@@ -1,6 +1,6 @@
 # ![icon](favicon.ico) Student Record Management (CLI-based System)
 
-<!-- 2022 -->
+![year](https://img.shields.io/badge/year-2022-blue)
 
 A Simple System CLI-based where you can record the student information into it. It is not associated with database hence the data
 will be gone when it is not running.
